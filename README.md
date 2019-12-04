@@ -21,7 +21,7 @@
 
 # 工作经历
 
-## 西安四叶草安全 （ 2018年5月 ~ 2020年5月 ）
+## 西安四叶草安全 （ 2018年5月 ~ 至今 ）
 
 ### AttackFind实时异常流量监测平台 
 - 项目使用技术：Java/C/C++/Python/GO/SpringBoot/Elasticsearch/LogStash/Kibana/Redis
