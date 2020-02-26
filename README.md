@@ -92,10 +92,10 @@
 
 以下均为我熟练使用的技能
 
-- 编程语言：Java/Python
-- 后端框架：SpringBoot/SpringData/SpringCloud/Mybatis
+- 编程语言：熟悉Java/了解Python
+- 后端框架：SpringBoot/SpringData/Mybatis
 - 大数据框架：Spark/Hadoop/Kafka
-- 安全框架：Shiro/SpringSecurity
+- 安全框架：Shiro
 - 数据清洗：Logstash
 - 数据库相关：MySQL/Redis/Elasticsearch
 - 服务器：Tomcat/Nginx/云服务器
